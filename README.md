@@ -24,7 +24,7 @@ This is an end to end LLM project based on Google Palm and Langchain. We are bui
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+    git clone https://github.com/Salman-Khan-Mohammed/Q-A-System-.git
 ```
 2.Navigate to the project directory:
 
@@ -70,3 +70,11 @@ streamlit run main.py
 - langchain_helper.py: This has all the langchain code
 - requirements.txt: A list of required Python packages for the project.
 - .env: Configuration file for storing your Google API key.
+
+
+## Screenshots
+ ## Demo 1
+![](https://github.com/Salman-Khan-Mohammed/Q-A-System-/blob/main/Q%26A%20System/Screenshot%202024-08-25%20at%202.51.20%E2%80%AFPM.png)
+
+## Demo 2
+![](https://github.com/Salman-Khan-Mohammed/Q-A-System-/blob/main/Q%26A%20System/Screenshot%202024-08-25%20at%202.53.10%E2%80%AFPM.png)
